@@ -1,0 +1,15 @@
+StorageLab – Nutzung und Weitergabe
+© 2026 Franz Niklaus
+
+StorageLab darf kostenlos genutzt, kopiert und kostenlos weitergegeben werden.
+Bei der Weitergabe müssen der Copyrightvermerk und die beigefügten
+Lizenzhinweise erhalten bleiben. Der ursprüngliche Herausgeber darf
+nicht falsch angegeben werden.
+
+Diese Erlaubnis gilt für die eigenen Projektbestandteile, soweit die
+entsprechenden Rechte vorliegen. Für enthaltene Fremdkomponenten gelten
+deren eigene Lizenzen. Weitere Hinweise stehen in LICENSE.txt,
+Tk-Lizenz.txt, Drittanbieter-Lizenzen.txt und im Unterordner local-ai.
+
+StorageLab wird ohne zugesicherte Fehlerfreiheit bereitgestellt.
+Gesetzliche Rechte und zwingende Haftungsregeln bleiben unberührt.
